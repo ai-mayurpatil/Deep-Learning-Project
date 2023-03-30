@@ -24,3 +24,11 @@ relevant recommendations.
 
 The fashion recommendation system has the potential to revolutionize the way consumers shop for clothes and accessories online. By providing personalized 
 recommendations based on users' individual preferences and behavior, the system can increase customer satisfaction and loyalty, while also driving sales for retailers.
+
+Pre-requisite
+1-Deep Learning- CNN
+2-Transfer Learning-ResNET-image Net
+
+Step by step plan of attack
+1)Import model-ResNet CNN model
+2)Extract features-44k images compare 2048 feature(44k,2048) 2D array 
