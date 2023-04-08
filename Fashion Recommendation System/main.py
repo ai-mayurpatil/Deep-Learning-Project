@@ -1,3 +1,7 @@
+import tensorflow
+from tensorflow.keras.preprocessing import image
+from tensorflow.keras.layers import GlobalMaxPooling2D
+from tensorflow.keras.applications.resnet50 import ResNet50,preprocess_input
 import streamlit as st
 import os
 from PIL import Image
